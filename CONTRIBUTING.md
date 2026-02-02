@@ -1,0 +1,3 @@
+- Open an issue
+- Create a branch
+- Submit a pull request
